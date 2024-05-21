@@ -85,7 +85,7 @@ https://github.com/bris91/8-01-hw/commit/c3bc9ce1437ccc63ee221e40577c6e19109774c
 5. `Заполните здесь этапы выполнения, если требуется ....`
 6. 
 
-```
+![alt text](https://github.com/bris91/git-hw-8-01/blob/main/2024-05-21_21-25-55.png)
 https://github.com/bris91/8-01-hw/network
 ....
 ....
